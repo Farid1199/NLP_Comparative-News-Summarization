@@ -85,6 +85,6 @@ After completion, you will have:
 - Rerun the program
 
 
-**If you get a panda erro**
+**If you get a panda Errors**
 - DRun the following: `C:\Users\<YourUsername>\.cache\huggingface\hub\models--sshleifer--distilbart-cnn-12-6`
 
